@@ -1,211 +1,214 @@
 #EXTM3U
-#EXTINF:50 group-title="Movies",AMC
+#EXTINF:50 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/AMCCzechia.png",AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
-#EXTINF:0 group-title="Movies",AXN-Black
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_black/playlist.m3u8
-#EXTINF:50 group-title="Movies",AXN
+#EXTINF:50 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/AXNCzechia.png",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_axn/playlist.m3u8
-#EXTINF:5 group-title="Entertainment",AXN-White
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/AXNBlackCzechia.png",AXN Black
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_black/playlist.m3u8
+#EXTINF:5 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/AXNWhiteCzechia.png",AXN White
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://82.78.243.219:45739/play/a00n/index.m3u8
-#EXTINF:50 group-title="Entertainment",White
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_white/playlist.m3u8
-#EXTINF:49,Barrandov Krimi
+#EXTINF:49 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/BarrandovKrimi.png",Barrandov Krimi
 #EXTVLCOPT:network-caching=1000
 https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
-#EXTINF:50,CNN Prima News
+#EXTINF:50 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/CNNPrimaNews.png",CNN Prima News
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
-#EXTINF:50,ČT 1
+#EXTINF:50 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/CT1.png",ČT 1
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
-#EXTINF:0,ČT 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/CT2.png",ČT 2
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
-#EXTINF:0,ČT 24
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/CT24.png",ČT 24
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
-#EXTINF:0,ČT Sport
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:0,ČT Art
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/CTArt.png",ČT Art
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:50,Disney Channel
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/CTSport.png",ČT Sport
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:50 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/DisneyChannelCzechia.png",Disney Channel
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_disney/playlist.m3u8
-#EXTINF:29,Elektrika CZ
+#EXTINF:29 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/ElektrikaCZ.png",Elektrika CZ
 #EXTVLCOPT:network-caching=1000
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
-#EXTINF:0 group-title="Movies",FilmBox emotion
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/FilmBoxEmotion.png",FilmBox Emotion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
-#EXTINF:49 group-title="Movies",FilmBox hits
+#EXTINF:49 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/FilmBoxHits.png",FilmBox Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
-#EXTINF:0 group-title="Movies",FilmBox Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
-#EXTINF:0 group-title="Movies",FilmBox one
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/FilmBox.png",FilmBox One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_filmbox/playlist.m3u8
-#EXTINF:0,Golf Channel
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/FilmBoxPlus.png",FilmBox Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/GolfChannelCzechia.png",Golf Channel
 #EXTVLCOPT:network-caching=1000
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
-#EXTINF:0 group-title="Documentary",History Channel
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/HistoryCzechia.png",History Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_history/playlist.m3u8
-#EXTINF:0,JC1 TV
-#EXTVLCOPT:network-caching=1000
-https://stream.jc1.cz/hls/jc1.m3u8
-#EXTINF:0,JTV
-#EXTVLCOPT:network-caching=1000
-https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
-#EXTINF:0,Minimax
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_minimax/playlist.m3u8
-#EXTINF:0,Mňau TV
-#EXTVLCOPT:network-caching=1000
-https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
-#EXTINF:0 group-title="Music",MusicBox Classic
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/mb_classic/index.m3u8
-#EXTINF:0 group-title="Music",MusicBox Dance
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/mb_dance/index.m3u8
-#EXTINF:0 group-title="Music",MusicBox Hits
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/mb_hits/index.m3u8
-#EXTINF:0 group-title="Music",MusicBox Sexy
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/mb_sexy/index.m3u8
-#EXTINF:0,Nicktoons
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_nicktoons/playlist.m3u8
-#EXTINF:0 group-title="Music",Óčko
-#EXTVLCOPT:network-caching=1000
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:0 group-title="Music",Óčko Black
-#EXTVLCOPT:network-caching=1000
-https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
-#EXTINF:0 group-title="Music",Óčko Expres
-#EXTVLCOPT:network-caching=1000
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:0 group-title="Music",Óčko Gold
-#EXTVLCOPT:network-caching=1000
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:0 group-title="Music",Óčko Star-impulsem
-#EXTVLCOPT:network-caching=1000
-https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
-#EXTINF:0,OIK TV---
-#EXTVLCOPT:network-caching=1000
-https://streamer05.low-latency.cz/oiktv/index.m3u8
-#EXTINF:0,Plzen.tv
-#EXTVLCOPT:network-caching=1000
-https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
-#EXTINF:0,Polar 2
-#EXTVLCOPT:network-caching=1000
-https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
-#EXTINF:0,Polar
-#EXTVLCOPT:network-caching=1000
-https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
-#EXTINF:0,Prima
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
-#EXTINF:0,Prima Love
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
-#EXTINF:0,Prima Show
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
-#EXTINF:0,Prima Star
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
-#EXTINF:0,Prima Zoom
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
-#EXTINF:0 group-title="Music",Retro Music Television
-#EXTVLCOPT:network-caching=1000
-https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0,RTM Plus---
-#EXTVLCOPT:network-caching=1000
-https://www.rtmplus.cz/live/1-playlist.m3u8
-#EXTINF:0 group-title="Music",Šlágr Muzika
-#EXTVLCOPT:network-caching=1000
-https://stream-23.mazana.tv/slagrmuzika.m3u8s
-#EXTINF:0 group-title="Music",Šlágr Originál
-#EXTVLCOPT:network-caching=1000
-https://stream-13.mazana.tv/slagroriginal.m3u8s
-#EXTINF:0,Spektrum
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_spektrum/playlist.m3u8
-#EXTINF:0,Home TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/HomeTV.png",Home TV
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_home_hevc/playlist.m3u8
-#EXTINF:0 group-title="Sports",Sport 1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/JC1TV.png",JC1 TV
+#EXTVLCOPT:network-caching=1000
+https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/JTV.png",JTV
+#EXTVLCOPT:network-caching=1000
+https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
+#EXTINF:51 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/UpNetwork.png",Kanal 1
+#EXTVLCOPT:network-caching=1000
+https://dash.antik.sk/live/test_upnetwork/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/KinoBarrandov.png",Kino Barrandov
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/MinimaxCzechia.png",Minimax
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_minimax/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/MnauTV.png",Mňau TV
+#EXTVLCOPT:network-caching=1000
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/MusicBoxClassic.png",MusicBox Classic
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/mb_classic/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/MusicBoxDance.png",MusicBox Dance
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/mb_dance/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/MusicBoxHits.png",MusicBox Hits
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/mb_hits/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/MusicBoxSexy.png",MusicBox Sexy
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/mb_sexy/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NicktoonsCzechia.png",Nicktoons
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_nicktoons/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NoeTV.png",Noe TV
+#EXTVLCOPT:network-caching=1000
+https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8
+#EXTINF:7194 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NoeTVPlus.png",Noe TV Plus
+#EXTVLCOPT:network-caching=1000
+https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8
+#EXTINF:20 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/TVNova.png",Nova
+#EXTVLCOPT:network-caching=1000
+https://sktv.mxnticek.eu/new/stream.php?ch=Nova
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaAction.png",Nova Action
+#EXTVLCOPT:network-caching=1000
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaCinema.png",Nova Cinema
+#EXTVLCOPT:network-caching=1000
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaFun.png",Nova Fun
+#EXTVLCOPT:network-caching=1000
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaGold.png",Nova Gold
+#EXTVLCOPT:network-caching=1000
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaLady.png",Nova Lady
+#EXTVLCOPT:network-caching=1000
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/Ocko.png",Óčko
+#EXTVLCOPT:network-caching=1000
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/OckoBlack.png",Óčko Black
+#EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/OckoExpres.png",Óčko Expres
+#EXTVLCOPT:network-caching=1000
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/OckoGold.png",Óčko Gold
+#EXTVLCOPT:network-caching=1000
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/OckoStar.png",Óčko Star-impulsem
+#EXTVLCOPT:network-caching=1000
+https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/Plzentv.png",Plzen.tv
+#EXTVLCOPT:network-caching=1000
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/Polar.png",Polar
+#EXTVLCOPT:network-caching=1000
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/Polar2.png",Polar 2
+#EXTVLCOPT:network-caching=1000
+https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/Prima.png",Prima
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/PrimaCool.png",Prima Cool
+#EXTVLCOPT:network-caching=1000
+http://st02.lab.cho01.iptv.grapesc.cz/60-tv-stb.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/PrimaLove.png",Prima Love
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/PrimaMax.png",Prima Max
+#EXTVLCOPT:network-caching=1000
+http://74.208.44.158:5000/live/518/518.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/PrimaShow.png",Prima Show
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/PrimaStar.png",Prima Star
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/PrimaZoom.png",Prima Zoom
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/Relax.png",Relax
+#EXTVLCOPT:network-caching=1000
+https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/RetroMusicTelevision.png",Retro Music Television
+#EXTVLCOPT:network-caching=1000
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/SeznamTV.png",Seznam TV
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/SlagrMuzika.png",Šlágr Muzika
+#EXTVLCOPT:network-caching=1000
+https://stream-23.mazana.tv/slagrmuzika.m3u8s
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/SlagrOriginal.png",Šlágr Originál
+#EXTVLCOPT:network-caching=1000
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/SpektrumCzechia.png",Spektrum
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_spektrum/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/Sport1Czechia.png",Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:0 group-title="Sports",Sport 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/Sport2Czechia.png",Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
-#EXTINF:0 group-title="Sports",Sporty TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/SportyTV.png",Sporty TV
 #EXTVLCOPT:network-caching=1000
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
-#EXTINF:0,Seznam TV
-#EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
-#EXTINF:0,TV Brno 1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/TVBrno1.png",TV Brno 1
 #EXTVLCOPT:network-caching=1000
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
-#EXTINF:0,Noe TV
-#EXTVLCOPT:network-caching=1000
-https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8
-#EXTINF:7194,Noe TV Plus
-#EXTVLCOPT:network-caching=1000
-https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8
-#EXTINF:51,Kanal 1
-#EXTVLCOPT:network-caching=1000
-https://dash.antik.sk/live/test_upnetwork/playlist.m3u8
-#EXTINF:0,UTV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/UTV.png",UTV
 #EXTVLCOPT:network-caching=1000
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:0,VCTV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/VCTV.png",VCTV
 #EXTVLCOPT:network-caching=1000
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:0,VG Live SK---
+#EXTINF:50 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/White.png",White
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTVLCOPT:network-caching=1000
-https://streams2.sofast.tv/vglive-sk-461164/index.m3u8
-#EXTINF:20,Nova
-#EXTVLCOPT:network-caching=1000
-https://sktv.mxnticek.eu/new/stream.php?ch=Nova
-#EXTINF:0,Nova Cinema
-#EXTVLCOPT:network-caching=1000
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
-#EXTINF:0,Nova Action
-#EXTVLCOPT:network-caching=1000
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction
-#EXTINF:0,Nova Fun
-#EXTVLCOPT:network-caching=1000
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun
-#EXTINF:0,Nova Gold
-#EXTVLCOPT:network-caching=1000
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold
-#EXTINF:0,Nova Lady
-#EXTVLCOPT:network-caching=1000
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady
+http://88.212.15.19/live/test_white/playlist.m3u8
