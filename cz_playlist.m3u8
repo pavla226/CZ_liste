@@ -109,22 +109,22 @@ https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200
 https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8
 #EXTINF:20 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/TVNova.png",Nova
 #EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_nova_25p/playlist.m3u8
+https://tvopen.poda.cz/hls/tv_nova/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaAction.png",Nova Action
 #EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_nova_action_25p/playlist.m3u8
+https://tvopen.poda.cz/hls/tv_nova_action/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaCinema.png",Nova Cinema
 #EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_nova_cinema_25p/playlist.m3u8
+https://tvopen.poda.cz/hls/tv_nova_cinema/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaFun.png",Nova Fun
 #EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_nova_fun_25p/playlist.m3u8
+https://tvopen.poda.cz/hls/tv_nova_fun/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaGold.png",Nova Gold
 #EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_nova_gold_25p/playlist.m3u8
+https://tvopen.poda.cz/hls/tv_nova_gold/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaLady.png",Nova Lady
 #EXTVLCOPT:network-caching=1000
-http://88.212.15.19/live/test_nova_lady_25p/playlist.m3u8
+https://tvopen.poda.cz/hls/tv_nova_lady/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/Ocko.png",Óčko
 #EXTVLCOPT:network-caching=1000
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
