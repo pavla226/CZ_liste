@@ -109,22 +109,22 @@ https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200
 https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8
 #EXTINF:20 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/TVNova.png",Nova
 #EXTVLCOPT:network-caching=1000
-https://sktv.mxnticek.eu/new/stream.php?ch=Nova
+http://88.212.15.19/live/test_nova_25p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaAction.png",Nova Action
 #EXTVLCOPT:network-caching=1000
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction
+http://88.212.15.19/live/test_nova_action_25p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaCinema.png",Nova Cinema
 #EXTVLCOPT:network-caching=1000
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
+http://88.212.15.19/live/test_nova_cinema_25p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaFun.png",Nova Fun
 #EXTVLCOPT:network-caching=1000
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun
+http://88.212.15.19/live/test_nova_fun_25p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaGold.png",Nova Gold
 #EXTVLCOPT:network-caching=1000
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold
+http://88.212.15.19/live/test_nova_gold_25p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/NovaLady.png",Nova Lady
 #EXTVLCOPT:network-caching=1000
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady
+http://88.212.15.19/live/test_nova_lady_25p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/Ocko.png",Óčko
 #EXTVLCOPT:network-caching=1000
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
@@ -172,7 +172,7 @@ http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
 http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/Relax.png",Relax
 #EXTVLCOPT:network-caching=1000
-https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
+https://tvopen.poda.cz/hls/tv_relax/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channels/RetroMusicTelevision.png",Retro Music Television
 #EXTVLCOPT:network-caching=1000
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
